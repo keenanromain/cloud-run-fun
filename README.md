@@ -1,6 +1,6 @@
 # cloud-run-fun
-A proof-of-concept application to explore CI/CD on Google Cloud. The application gets rebuilt on every new commit and exposes two endpoints; `/health` and `/hello`. 
-The build affirmed via a cURL response or through the browser:
+A proof-of-concept application to explore CI/CD on Google Cloud. The application gets rebuilt on every new commit to this repository and publicly exposes two endpoints; `/health` and `/hello`. 
+The successful build can be affirmed via a cURL response or through the browser:
 
 ```
 $ curl -i "https://no-keys-git-push-to-start-qbarc2y7rq-uc.a.run.app/hello"
