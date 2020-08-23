@@ -15,4 +15,4 @@ alt-svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=25
 {"hello":"world"}
 ```
 
-I will write a walkthrough over the next few days and build a more robust application.
+I will write a walkthrough over the next few days and write a less boring application.
