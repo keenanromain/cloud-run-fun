@@ -3,11 +3,11 @@ A proof-of-concept application to explore CI/CD on Google Cloud. The application
 The build affirmed via a cURL response or through the browser:
 
 ```
-$ curl -i "https://pipeline-demo-qbarc2y7rq-uc.a.run.app/hello"
+$ curl -i "https://no-keys-git-push-to-start-qbarc2y7rq-uc.a.run.app/hello"
 
 HTTP/2 200
 content-type: application/json
-date: Sun, 23 Aug 2020 23:00:53 GMT
+date: Sun, 23 Aug 2020 23:11:16 GMT
 server: Google Frontend
 content-length: 18
 alt-svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
