@@ -1,6 +1,6 @@
 # cloud-run-fun
 A proof-of-concept application to explore CI/CD on Google Cloud. The application gets rebuilt on every new commit and exposes two endpoints; `/health` and `/hello`. 
-The build can be seen in a cURL response or via the browser:
+The build affirmed via a cURL response or through the browser:
 
 ```
 $ curl -i "https://pipeline-demo-qbarc2y7rq-uc.a.run.app/hello"
